@@ -1,0 +1,2 @@
+body,figure{margin:0}figure{align-items:center;background:#34495e;color:#fff;display:flex;flex-direction:column;font-family:sans-serif;height:100vh;justify-content:center;transition:background .4s ease-in-out}figure.warning{background:#e74c3c!important}.hex-field{font-size:18px;letter-spacing:.1em}.hex-field,.message{box-sizing:border-box;height:50px;line-height:50px;text-align:center;width:180px}.message{background-color:rgba(0,0,0,.45);color:#fff;content:"";margin-top:5px;padding:0 10px;-webkit-user-select:all;user-select:all}
+/*# sourceMappingURL=main.e7ed9012.css.map*/
